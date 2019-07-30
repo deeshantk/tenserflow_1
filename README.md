@@ -1,5 +1,5 @@
 # tenserflow_1
-train model to predict for some new value
+Train model to predict for some new value
 
 Libraries used here are-
 1- tenserflow
